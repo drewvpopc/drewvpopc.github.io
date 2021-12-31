@@ -54,13 +54,8 @@
 }
 
 .ds4 .bumper.pressed {
-    background: url(bumperp.png) no-repeat center;
-    width: 588px;
-    height: 23px;
-    left: 109px;
-    top: 94px;
+    background: url(bumperp.png) no-repeat center;;
 }
-
 
 .ds4 .bumper.left {
     /* -webkit-transform: rotateY(180deg); */
